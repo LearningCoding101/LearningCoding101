@@ -28,34 +28,7 @@ Welcome to my GitHub! I'm a passionate **Full-Stack Developer** with a knack for
 - ✍️ Academic English: Writing Specialization
 - 🔍 Information & Digital Literacy for University Success
 
----
 
-## 🧑‍💻 **Experience**
-
-### **Mobile Developer @ Sendo.vn**  
-*Nov 2024 – Present*  
-- Collaborating with teams to build responsive mobile applications using **Flutter**.  
-- Leveraging **Dart** to implement efficient and user-centric app features.
-
-### **Software Engineer Intern @ Sendo.vn**  
-*Sep 2024 – Nov 2024*  
-- Contributed to back-end development with **Java** and **Spring Boot**.  
-- Enhanced front-end responsiveness and interactivity with **React.js** and **Redux**.
-
-
-## 📊 **GitHub Stats**
-
-![Hà Hoàng's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
-
----
-
-## 🌱 **What I’m Learning**
-- Cross-platform development with **Flutter** and **React Native**.  
-- Exploring emerging backend frameworks to enhance scalability.
-
----
 
 ## 📫 **Connect with Me**
 - ✉️ Email: [hahoang433322@gmail.com](mailto:hahoang433322@gmail.com)  
